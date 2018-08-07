@@ -1,2 +1,4 @@
 # hello-world
-Just another repository
+
+Totally newbie here.
+Vinyl DJs do it better.
